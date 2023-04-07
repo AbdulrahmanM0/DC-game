@@ -84,4 +84,9 @@
     cursor: pointer;
 
 }
+h4{
+    position: absolute;
+    bottom: 10px;
+    left: 10px
+}
 
